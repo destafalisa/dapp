@@ -4,6 +4,7 @@
       "ProofOfAuthority": {
         "trigger": "instant"
       }
+        
     },
     "parent_network": {
       "type": "LocalTest"
