@@ -1,10 +1,13 @@
+fgh
+
+
 {
     "chain_name": "local_testnet",
     "block_production": {
       "ProofOfAuthority": {
         "trigger": "instant"
       }
-        
+    
     },
     "parent_network": {
       "type": "LocalTest"
